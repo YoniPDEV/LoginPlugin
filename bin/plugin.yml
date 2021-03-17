@@ -1,0 +1,9 @@
+name: LoginPlugin
+version: 1.0
+author: yonatan
+main: me.yonatan.login.Main
+commands:
+  registrar:
+    description: Se registrar.
+  login:
+  trocarsenha:
